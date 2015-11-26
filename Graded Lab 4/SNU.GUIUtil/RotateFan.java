@@ -1,6 +1,7 @@
 /*  Name		 : Yash Kumar Singh
     Roll Number  	 : 1310110373
     Major		 : Computer Science and Engineering
+    Program Title 	 : Rotate Fan GL4
 */
 
 package SNU.GUIUtil;
